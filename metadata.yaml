@@ -1,0 +1,35 @@
+_repo: Le-Sylphe-ou-Songe-de-Mme-de-R-ecrit-par-elle-meme-a-Mme-de-S_60892
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crébillon, Claude-Prosper Jolyot de
+    aliases:
+    - Crébillon, Claude Prosper Jolyot de
+    - Jolyot de Crébillon, Claude-Prosper
+    - Crebillon, Claude-Prosper Jolyot de
+    - De Crébillon, Claude-Prosper Jolyot
+    birthdate: 1707
+    deathdate: 1777
+    gutenberg_agent_id: '8051'
+    url: http://www.gutenberg.org/2009/agents/8051
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Claude-Prosper_Jolyot_de_Cr%C3%A9billon
+    - https://en.wikipedia.org/wiki/Claude_Prosper_Jolyot_de_Cr%C3%A9billon
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouveautés
+gutenberg_issued: '2019-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60892'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Le Sylphe
+
+  ou Songe de Mme de R***, écrit par elle-même à Mme de S***'
+url: http://www.gutenberg.org/ebooks/60892
